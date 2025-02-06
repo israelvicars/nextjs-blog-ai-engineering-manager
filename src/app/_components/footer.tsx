@@ -10,7 +10,7 @@ export function Footer() {
         <div className="flex justify-center py-16">
           <div className="flex gap-16">
             <a 
-              href="https://twitter.com" 
+              href="https://x.com/aiengmanager" 
               className="w-16 flex items-center justify-center" 
               aria-label="X (Twitter)"
             >
@@ -23,7 +23,7 @@ export function Footer() {
               />
             </a>
             <a 
-              href="https://github.com" 
+              href="https://github.com/israelvicars" 
               className="w-16 flex items-center justify-center" 
               aria-label="GitHub"
             >
@@ -36,7 +36,7 @@ export function Footer() {
               />
             </a>
             <a 
-              href="https://linkedin.com" 
+              href="https://linkedin.com/in/israelvicars" 
               className="w-16 flex items-center justify-center" 
               aria-label="LinkedIn"
             >

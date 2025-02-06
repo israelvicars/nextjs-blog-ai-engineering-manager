@@ -8,13 +8,13 @@ export function Intro() {
         <Image
           src="/assets/logo.png"
           alt="Blog Logo"
-          width={300}
-          height={100}
-          className="w-auto h-auto"
+          width={150}
+          height={50}
+          className="w-full"
           priority
         />
       </div>
-      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
+      <h4 className="text-center md:text-left text-xl mt-5 md:pl-8">
         AI for Middle Managers
       </h4>
     </section>
